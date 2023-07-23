@@ -1,0 +1,3 @@
+to compile : tsc index.ts
+
+tsc --init -> config file
