@@ -1,3 +1,12 @@
 to compile : tsc index.ts
 
 tsc --init -> config file
+
+js -> runs the entire code
+   -> runtime error 
+
+ts -> ts never runs your code 
+   -> It does type checking/convert to JS
+   -> compilation error
+
+js doesn't understand interfaces/types/enums
